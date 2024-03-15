@@ -69,7 +69,6 @@ h2 {
     margin-bottom: 16px;
 }
 #body {
-    /* height = 100% window height - (header height 84px + footer height 100px) */
     /*background-color: var(--color-surface-mixed-400);*/
     height: calc(100% - 300px);
     width: 100%;
